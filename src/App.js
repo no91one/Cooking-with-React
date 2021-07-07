@@ -1,5 +1,4 @@
 import React,{useState} from 'react';
-import ReactDOM from 'react-dom';
 import Counter from './Counter';
 import CounterHooks from './CounterHooks'
 export const ThemeContext = React.createContext();
